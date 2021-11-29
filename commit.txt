@@ -27,3 +27,5 @@
     Cẩn thận, khi dùng "git push -f" có thể mất commit của người khác, phải đảm bảo đã pull đủ hết về
 - Commit 11
     Tổng hợp commit bằng rebase
+    "git rebase -i HEAD~3" 3 là số lượng commit muốn gộp.
+    Sau đó "git push", nếu như muốn gộp các commit đã push lên, thì phải dùng "git push -f" thì mới đè được
