@@ -1,1 +1,3 @@
 - first
+- commit 4
+    test commit, để tí nữa thử sửa bằng lệnh amend xem sao

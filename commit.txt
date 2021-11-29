@@ -4,3 +4,5 @@
 - commit 3
     + create branch dev: git checkout -b dev master
     + push dev: git push -u origin dev
+- commit 4
+    test commit
