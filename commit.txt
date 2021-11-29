@@ -15,3 +15,4 @@
     bằng lệnh "git add ..." hoặc "git add --all" trước khi dùng lệnh "git commit --amend"
 - commit 7
     dùng lệnh revert để sửa commit đã push
+    lệnh revert sẽ tạo ra 1 commit revert
