@@ -16,3 +16,5 @@
 - commit 7
     dùng lệnh revert để sửa commit đã push
     lệnh revert sẽ tạo ra 1 commit revert
+- commit 8
+    dùng lệnh reset để xóa commit
