@@ -25,3 +25,5 @@
     sau đó phải dùng "git push -f" thì mới đấy được.
     git push bình thường thì ko được, do conflic với trên origin
     Cẩn thận, khi dùng "git push -f" có thể mất commit của người khác, phải đảm bảo đã pull đủ hết về
+- Commit 11
+    Tổng hợp commit bằng rebase
