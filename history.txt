@@ -4,3 +4,5 @@
 - commit 5
     test commit
     sửa commit thêm dòng này
+- commit 6
+    sửa commit thêm dòng này
