@@ -20,3 +20,5 @@
     dùng lệnh reset để xóa commit: "git reset HEAD~~"
 - Commit 9
     dùng lệnh reset để xóa commit đã push
+- Commit 10: làm lại commit 9
+    dùng lệnh reset để xóa commit đã push
