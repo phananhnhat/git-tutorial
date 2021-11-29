@@ -13,3 +13,5 @@
 - commit 6
     sửa commit 5, ko chỉ sửa mỗi nội dùng commit mà sửa luôn file
     bằng lệnh "git add ..." hoặc "git add --all" trước khi dùng lệnh "git commit --amend"
+- commit 7
+    dùng lệnh revert để sửa commit đã push
