@@ -1,3 +1,6 @@
 - first
 - commit 4
     test commit, để tí nữa thử sửa bằng lệnh amend xem sao
+- commit 5
+    test commit
+    sửa commit thêm dòng này
