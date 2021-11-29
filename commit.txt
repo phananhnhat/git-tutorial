@@ -17,4 +17,6 @@
     dùng lệnh revert để sửa commit đã push
     lệnh revert sẽ tạo ra 1 commit revert
 - commit 8
-    dùng lệnh reset để xóa commit
+    dùng lệnh reset để xóa commit: "git reset HEAD~~"
+- Commit 9
+    dùng lệnh reset để xóa commit đã push
