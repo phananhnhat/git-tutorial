@@ -21,4 +21,6 @@
 - Commit 9
     dùng lệnh reset để xóa commit đã push
 - Commit 10: làm lại commit 9
-    dùng lệnh reset để xóa commit đã push
+    dùng lệnh reset để xóa commit đã push "git reset HEAD~~"
+    sau đó phải dùng "git push -f" thì mới đấy được.
+    git push bình thường thì ko được, do conflic với trên origin
