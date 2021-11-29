@@ -16,3 +16,6 @@
     Commit thừa, đã push cần xóa bằng reset
     Đã xóa commit của dòng trên, thêm vào dòng này, push lại
 - Commit 11
+    - Commit 1
+    - Commit 2
+    - Commit 3
