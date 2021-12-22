@@ -29,3 +29,5 @@
     Tổng hợp commit bằng rebase
     "git rebase -i HEAD~3" 3 là số lượng commit muốn gộp.
     Sau đó "git push", nếu như muốn gộp các commit đã push lên, thì phải dùng "git push -f" thì mới đè được
+- Commit 12
+    Test commit bằng github.dev
