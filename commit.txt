@@ -28,4 +28,7 @@
 - Commit 11
     Tổng hợp commit bằng rebase
     "git rebase -i HEAD~3" 3 là số lượng commit muốn gộp.
+    sửa "pick" thành "s" của những commit từ thứ 2 trờ đi, lưu lại, nhập nôi dụng commit mới
     Sau đó "git push", nếu như muốn gộp các commit đã push lên, thì phải dùng "git push -f" thì mới đè được
+- Cherry pick
+    git cherry-pick -m 1 id_commit
