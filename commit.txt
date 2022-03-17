@@ -32,3 +32,5 @@
     Sau đó "git push", nếu như muốn gộp các commit đã push lên, thì phải dùng "git push -f" thì mới đè được
 - Cherry pick
     git cherry-pick -m 1 id_commit
+- Commit 12
+    Test commit bằng github.dev
